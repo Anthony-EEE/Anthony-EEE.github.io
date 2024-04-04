@@ -8,7 +8,7 @@
 # Site Settings
 # false or true
 title                    : "Endong Sun"
-description              : "Personal portfolio of Endong Sun. "
+description              : "A PhD student at Kings' College London researching in Robotics and AI. Ai research Scientist at Satrtup ZAPPLYAI working in LLM and NLP. I am passionate about AI and Robotics, and I am always looking for new opportunities to learn and grow."
 repository               : "Anthony-EEE/Anthony-EEE.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -44,7 +44,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "endong-sun-anthony" # e.g., "linkedin username"
+  LinkedIn         : "https://www.linkedin.com/in/endong-sun-anthony/" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
