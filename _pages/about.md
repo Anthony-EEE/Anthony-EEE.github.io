@@ -34,23 +34,23 @@ I am Endong Sun, a PhD student at King's College London. My research topic is AI
 Wenqiang Lai*, Qihan Yang*, Ye Mao*,**Endong Sun***, Jiangnan Ye*
 
 [**Project**](https://www.youtube.com/watch?v=sPrt58o1qEI) <strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Our model can classify 26 NATO phonetic alphabet datasets with 3900 data samples, enabling the unambiguous generation of any English word through spelling. Extensive experiments validate the effectiveness of KDE-SSI, achieving a test accuracy of 85.9%.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Received Full-Funded NMES studentship from KCL
+- *2022.09* Won Dick Poortvliet Award (1st) at Imperial College
+- *2020.06* OUTSTANDING ACADEMIC ACHIEVEMENT
+- *2019.10* Won International Excellence Scholarship (£2,000 awarded)
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06 - 2027.06*, PhD student in Robotics and AI at King's College London 
+- *2021.09 - 2022.11*, MSc in Applied Machine Learning at Imperial College London
+- *2018.09 - 2021.07*, BEng in Electrical and Electronic Engineering at Swansea University
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2023.03 - 2023.06*, [SearchPilot](https://www.searchpilot.com/), London, UK.
