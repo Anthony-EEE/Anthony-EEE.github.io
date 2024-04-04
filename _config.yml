@@ -10,7 +10,7 @@
 title                    : "Endong Sun"
 description              : "A PhD student at Kings' College London researching in Robotics and AI. Ai research Scientist at Satrtup ZAPPLYAI working in LLM and NLP. I am passionate about AI and Robotics, and I am always looking for new opportunities to learn and grow."
 repository               : "Anthony-EEE/Anthony-EEE.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
