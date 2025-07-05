@@ -65,7 +65,7 @@
     font-weight: 700;
     margin-bottom: 0.5rem;
     text-shadow: none;
-    color: #00369f;
+    color: #222;
     
     @include breakpoint($medium) {
       font-size: 4rem;
@@ -76,14 +76,14 @@
     font-size: 1.1rem;
     margin-bottom: 1rem;
     font-weight: 400;
-    color: #00369f;
+    color: #444;
   }
   
   .hero-description {
     font-size: 1rem;
     line-height: 1.6;
     margin-bottom: 0.5rem;
-    color: #222;
+    color: #444;
   }
   
   .hero-buttons {
@@ -149,13 +149,14 @@
 }
 
 .news-timeline li {
-  background: none;
+  background: rgba(180,180,180,0.12);
   border: none;
-  box-shadow: none;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.03);
   margin-bottom: 0.7rem;
-  padding: 0;
+  padding: 0.7em 1em;
   color: #222;
   font-size: 1rem;
+  border-radius: 8px;
 }
 
 // Remove .awards-timeline, .education-timeline, .experience-timeline timeline visuals
@@ -371,14 +372,26 @@
     }
 }
 
-// Update cards, timelines, and section headings to use #00369f for accents
-.paper-box, .projects-grid .project-card, .skills-grid .skill-category, .news-timeline > *, .contact-info .contact-item, .contact-options .contact-btn {
-  border-left: 4px solid #00369f !important;
+.paper-box {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+  border: none;
+  margin-bottom: 2rem;
 }
 
 h2, h3, h4 {
-  color: #00369f;
+  color: #222;
   font-weight: 600;
+}
+
+a, a:visited {
+  color: #336699;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #222;
 }
 
 // Fix timeline dots
