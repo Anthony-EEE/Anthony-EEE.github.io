@@ -121,10 +121,12 @@ I believe that the future of robotics lies in creating systems that can learn, a
 
 ## 💼 Professional Experience
 
-<div class="experience-timeline">
-- **March 2023 - June 2023**: **Data Scientist** at [SearchPilot](https://www.searchpilot.com/), London, UK
-  - **Outlier Detection Pipeline**: Responsible for developing outlier detection pipeline using Clustering algorithms (K-means, GMM, DBSCAN), Isolation Forest, and Variational Autoencoder
-  - **Model Performance Improvement**: Improved company's model performance by 75.75% including a decrease of 38% in prediction error, an increase of 0.5% of R² and a narrower confident prediction band of 2.81%
-  - **Combinatorial Optimization**: Solved combinatorial optimization to make control and variant groups as similar as possible using meta-heuristic algorithms (GA, PSO, etc.)
-  - **Technical Skills**: Applied advanced machine learning techniques for real-world business problems
-</div>
+- <strong>March 2023 – June 2023:</strong> <strong>Data Scientist</strong> at <a href="https://www.searchpilot.com/" target="_blank">SearchPilot</a>, London, UK
+  <ul>
+    <li><strong>Outlier Detection Pipeline:</strong> Developed outlier detection pipeline using clustering algorithms (K-means, GMM, DBSCAN), Isolation Forest, and Variational Autoencoder.</li>
+    <li><strong>Model Performance Improvement:</strong> Improved company’s model performance by 75.75%, including a decrease of 38% in prediction error, an increase of 0.5% of R², and a narrower confident prediction band of 2.81%.</li>
+    <li><strong>Combinatorial Optimization:</strong> Solved combinatorial optimization to make control and variant groups as similar as possible using meta-heuristic algorithms (GA, PSO, etc.).</li>
+    <li><strong>Technical Skills:</strong> Applied advanced machine learning techniques for real-world business problems.</li>
+  </ul>
+
+<div style="height: 4rem;"></div>

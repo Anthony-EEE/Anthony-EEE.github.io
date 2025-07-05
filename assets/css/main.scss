@@ -422,3 +422,8 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+body, .page__content, .main, main {
+  margin-bottom: 4rem !important;
+  padding-bottom: 2rem !important;
+}
