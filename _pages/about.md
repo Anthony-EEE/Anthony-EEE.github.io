@@ -33,12 +33,10 @@ redirect_from:
 
 My research focuses on the intersection of artificial intelligence and robotics, with particular emphasis on:
 
-- **Robot Learning**: Developing algorithms that enable robots to learn complex behaviors through machine learning, deep learning, and reinforcement learning
-- **Human-Robot Interaction (HRI)**: Designing intuitive interfaces and learning methods for seamless human-robot collaboration
-- **Computer Vision**: Advanced pose estimation and pattern recognition for robotic applications
-- **Human-Centered Robotics**: Developing robots that can assist and interact with humans in real-world environments
+- **Robot Learning:** Developing algorithms that enable robots to learn complex behaviors through machine learning, deep learning, and reinforcement learning.
+- **Human Demonstration for Robot Learning:** Training users to provide high-quality demonstrations and data, enabling robots to learn more effectively from human input. My work explores how to design intuitive processes and guidance so that non-expert users can generate better training data for robot learning systems.
 
-I believe that the future of robotics lies in creating systems that can learn, adapt, and work alongside humans effectively. My research aims to bridge the gap between theoretical AI advances and practical robotic applications.
+I believe that the future of robotics lies in creating systems that can learn, adapt, and work alongside humans effectively. My research aims to advance the era of human-robot collaboration, enabling seamless and effective interaction between people and intelligent robotic systems.
 
 <span class='anchor' id='news'></span>
 
@@ -101,7 +99,7 @@ I believe that the future of robotics lies in creating systems that can learn, a
 
 ## 🎖 Honors and Awards
 
-- 🏆 2023: PhD Studentships in Faculty of Natural, Mathematics & Engineering Sciences (Full-fund)
+- 🎓 2023: PhD Studentships in Faculty of Natural, Mathematics & Engineering Sciences (Full-fund)
 - 💰 2023: ICRA@40 Grant ($2000)
 - 💰 2023: Research, Training and Support Grant (£8750)
 - 🥇 2022: The Dick Poortvliet Award (1st) in the IEEE student branch paper contest
