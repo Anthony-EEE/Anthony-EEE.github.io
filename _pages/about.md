@@ -53,7 +53,7 @@ I believe that the future of robotics lies in creating systems that can learn, a
 
 <span class='anchor' id='publications'></span>
 
-## 📝 Publications
+## 📝 Publications 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -63,13 +63,13 @@ I believe that the future of robotics lies in creating systems that can learn, a
   </div>
   <div class='paper-box-text' markdown="1">
 
-### [Training People to Reward Robots](https://arxiv.org/abs/your-paper-id)
+### [Training People to Reward Robots](https://arxiv.org/abs/2505.10151)
 
 **Conference**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
 
 **Abstract**: This paper presents novel approaches to training humans to provide effective rewards for robot learning systems, improving the human-robot interaction loop in reinforcement learning scenarios.
 
-**Links**: [📄 Paper](https://arxiv.org/abs/your-paper-id) | [🎥 Video](link-to-video)
+**Links**: [📄 Paper](https://arxiv.org/abs/2505.10151) | [🎥 Video](https://arxiv.org/abs/2505.10151)
 
   </div>
 </div>
