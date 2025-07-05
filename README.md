@@ -2,6 +2,10 @@
 
 A modern, responsive personal website showcasing my research in AI and Robotics at King's College London.
 
+## 🌐 Live Demo
+
+**🌍 Website**: [https://anthony-eee.github.io](https://anthony-eee.github.io)
+
 ## 🌟 Features
 
 ### ✨ Enhanced Design
@@ -153,10 +157,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: k23114984@kcl.ac.uk
+- **Email**: sunendong2021@gmail.com
 - **LinkedIn**: [endong-sun-anthony](https://www.linkedin.com/in/endong-sun-anthony)
 - **GitHub**: [Anthony-EEE](https://github.com/Anthony-EEE)
 - **Google Scholar**: [Endong Sun](https://scholar.google.com/citations?user=W2p6p78AAAAJ)
+- **Personal Website**: [https://anthony-eee.github.io](https://anthony-eee.github.io)
 
 ---
 
