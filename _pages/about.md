@@ -48,12 +48,12 @@ I believe that the future of robotics lies in creating systems that can learn, a
 
 ## 🔥 Latest News
 
-<div class="news-timeline">
-- **2025**: 🎉 Paper "Training People to Reward Robots" accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
-- **March 2024**: 🎉 Successfully passed the KCL 9-month review of my PhD project, marking a significant milestone in my research journey.
-- **June 2023**: 🎓 Started my PhD journey at King's College London, beginning an exciting new chapter in Robot Learning and HRI research.
-- **March 2023**: 💼 Completed my internship at SearchPilot, gaining valuable industry experience in London.
-</div>
+<ul class="news-timeline">
+  <li><span class="news-date">2025</span>: 🎉 Paper "Training People to Reward Robots" accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</li>
+  <li><span class="news-date">March 2024</span>: 🎉 Successfully passed the KCL 9-month review of my PhD project, marking a significant milestone in my research journey.</li>
+  <li><span class="news-date">June 2023</span>: 🎓 Started my PhD journey at King's College London, beginning an exciting new chapter in Robot Learning and HRI research.</li>
+  <li><span class="news-date">March 2023</span>: 💼 Completed my internship at SearchPilot, gaining valuable industry experience in London.</li>
+</ul>
 
 <span class='anchor' id='publications'></span>
 
@@ -101,134 +101,17 @@ I believe that the future of robotics lies in creating systems that can learn, a
   </div>
 </div>
 
-<span class='anchor' id='projects'></span>
-
-## 🚀 Research Projects
-
-<div class="projects-grid">
-  <div class="project-card">
-    <div class="project-header">
-      <h3>🤖 Robot Learning and HRI</h3>
-      <span class="project-status">Active</span>
-    </div>
-    <p>PhD research focusing on developing novel robot learning algorithms and human-robot interaction methods for real-world applications.</p>
-    <div class="project-tags">
-      <span class="tag">Python</span>
-      <span class="tag">PyTorch</span>
-      <span class="tag">ROS</span>
-      <span class="tag">HRI</span>
-    </div>
-  </div>
-  
-  <div class="project-card">
-    <div class="project-header">
-      <h3>📊 6DoF Pose Estimation in Mixed Reality</h3>
-      <span class="project-status completed">Completed</span>
-    </div>
-    <p>Developed two Augmented Reality Apps for 6DoF pose estimation and camera stream collection in HoloLens2. Evaluated deep learning-based estimation methods on Ubuntu.</p>
-    <div class="project-tags">
-      <span class="tag">Unity3D</span>
-      <span class="tag">C#</span>
-      <span class="tag">HoloLens2</span>
-      <span class="tag">Deep Learning</span>
-    </div>
-  </div>
-  
-  <div class="project-card">
-    <div class="project-header">
-      <h3>👥 Human-Centered Robotics</h3>
-      <span class="project-status completed">Completed</span>
-    </div>
-    <p>Developed care robot with navigation, obstacle-avoidance, object research, fall detection, and speech interaction capabilities. Responsible for fall detection using pose estimation and action classification.</p>
-    <div class="project-tags">
-      <span class="tag">Computer Vision</span>
-      <span class="tag">Fall Detection</span>
-      <span class="tag">3D Hardware</span>
-      <span class="tag">Ubuntu</span>
-    </div>
-  </div>
-</div>
-
-<span class='anchor' id='skills'></span>
-
-## 💻 Technical Skills
-
-<div class="skills-grid">
-  <div class="skill-category">
-    <h3>🤖 Robotics & AI</h3>
-    <ul>
-      <li>Robot Learning</li>
-      <li>Human-Robot Interaction (HRI)</li>
-      <li>Computer Vision</li>
-      <li>Pattern Recognition</li>
-      <li>Human-Centered Robotics</li>
-    </ul>
-  </div>
-  
-  <div class="skill-category">
-    <h3>🧠 Machine Learning</h3>
-    <ul>
-      <li>Machine Learning</li>
-      <li>Deep Learning</li>
-      <li>Reinforcement Learning</li>
-      <li>Probability & Stochastic Processes</li>
-      <li>Statistics</li>
-    </ul>
-  </div>
-  
-  <div class="skill-category">
-    <h3>💻 Programming</h3>
-    <ul>
-      <li>Python (Advanced)</li>
-      <li>MATLAB (Advanced)</li>
-      <li>C/C++/C# (Basic)</li>
-      <li>MySQL (Basic)</li>
-      <li>ROS (Robot Operating System)</li>
-    </ul>
-  </div>
-  
-  <div class="skill-category">
-    <h3>🛠 Tools & Platforms</h3>
-    <ul>
-      <li>PyTorch</li>
-      <li>TensorFlow</li>
-      <li>Linux (Ubuntu)</li>
-      <li>Unity3D</li>
-      <li>Arduino</li>
-    </ul>
-  </div>
-  
-  <div class="skill-category">
-    <h3>📐 Mathematics & Engineering</h3>
-    <ul>
-      <li>Linear Algebra</li>
-      <li>Advanced Mathematics</li>
-      <li>Digital & Analogue Circuit Design</li>
-      <li>Signal and System</li>
-      <li>Communication Systems</li>
-    </ul>
-  </div>
-  
-  <div class="skill-category">
-    <h3>🌍 Languages</h3>
-    <ul>
-      <li>English (Fluent)</li>
-      <li>Chinese (Native)</li>
-    </ul>
-  </div>
-</div>
-
 <span class='anchor' id='honors-awards'></span>
 
 ## 🎖 Honors and Awards
 
 <div class="awards-timeline">
-- **2023**: 🏆 PhD Studentships in Faculty of Natural, Mathematics & Engineering Sciences (Full-fund)
-- **2023**: 💰 ICRA@40 Grant ($2000)
-- **2023**: 💰 Research, Training and Support Grant (£8750)
-- **2022**: 🥇 The Dick Poortvliet Award (1st) in the IEEE student branch paper contest
-- **2019**: 💰 International Excellence Scholarship (£2,000 awarded)
-- **2020**: 🌟 Outstanding Academic Achievement Award
+- <span class="award-date">2023</span>: 🏆 PhD Studentships in Faculty of Natural, Mathematics & Engineering Sciences (Full-fund)
+- <span class="award-date">2023</span>: 💰 ICRA@40 Grant ($2000)
+- <span class="award-date">2023</span>: 💰 Research, Training and Support Grant (£8750)
+- <span class="award-date">2022</span>: 🥇 The Dick Poortvliet Award (1st) in the IEEE student branch paper contest
+- <span class="award-date">2019</span>: 💰 International Excellence Scholarship (£2,000 awarded)
+- <span class="award-date">2020</span>: 🌟 Outstanding Academic Achievement Award
 </div>
 
 <span class='anchor' id='education'></span>
@@ -236,14 +119,14 @@ I believe that the future of robotics lies in creating systems that can learn, a
 ## 📖 Education
 
 <div class="education-timeline">
-- **2023 - 2027** (Expected): **PhD in Robot Learning and HRI** at King's College London
-  - *Research Focus: Robot Learning and Human-Robot Interaction*
-  
-- **2021 - 2022**: **MSc in Applied Machine Learning** at Imperial College London
-  - *Merit achieved (69.15%)*
-  
-- **2018 - 2021**: **BEng in Electrical and Electronic Engineering** at Swansea University
-  - *First Class Honours (82.25%)*
+- <span class="edu-date">2023–2027 (Expected)</span>: <strong>PhD in Robot Learning and HRI</strong> at King's College London
+  <br><em>Research Focus: Robot Learning and Human-Robot Interaction</em>
+  <br>
+- <span class="edu-date">2021–2022</span>: <strong>MSc in Applied Machine Learning</strong> at Imperial College London
+  <br><em>Merit achieved (69.15%)</em>
+  <br>
+- <span class="edu-date">2018–2021</span>: <strong>BEng in Electrical and Electronic Engineering</strong> at Swansea University
+  <br><em>First Class Honours (82.25%)</em>
 </div>
 
 <span class='anchor' id='experience'></span>
