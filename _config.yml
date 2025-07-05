@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Endong Sun"
   avatar           : "images/048e88a123ed4c04012c6f8690f7058.jpg"
-  bio              : "PhD at Kings' College London"
+  bio              : "PhD at King's College London"
   location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=W2p6p78AAAAJ"
-  email            : "k23114984@kcl.ac.uk"
+  email            : "sunendong2021@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://nms.kcl.ac.uk/rll/endong-sun/index.html"
   bitbucket        :
