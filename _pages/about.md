@@ -105,29 +105,21 @@ I believe that the future of robotics lies in creating systems that can learn, a
 
 ## 🎖 Honors and Awards
 
-<div class="awards-timeline">
-- <span class="award-date">2023</span>: 🏆 PhD Studentships in Faculty of Natural, Mathematics & Engineering Sciences (Full-fund)
-- <span class="award-date">2023</span>: 💰 ICRA@40 Grant ($2000)
-- <span class="award-date">2023</span>: 💰 Research, Training and Support Grant (£8750)
-- <span class="award-date">2022</span>: 🥇 The Dick Poortvliet Award (1st) in the IEEE student branch paper contest
-- <span class="award-date">2019</span>: 💰 International Excellence Scholarship (£2,000 awarded)
-- <span class="award-date">2020</span>: 🌟 Outstanding Academic Achievement Award
-</div>
-
-<span class='anchor' id='education'></span>
+- 🏆 2023: PhD Studentships in Faculty of Natural, Mathematics & Engineering Sciences (Full-fund)
+- 💰 2023: ICRA@40 Grant ($2000)
+- 💰 2023: Research, Training and Support Grant (£8750)
+- 🥇 2022: The Dick Poortvliet Award (1st) in the IEEE student branch paper contest
+- 💰 2019: International Excellence Scholarship (£2,000 awarded)
+- 🌟 2020: Outstanding Academic Achievement Award
 
 ## 📖 Education
 
-<div class="education-timeline">
-- <span class="edu-date">2023–2027 (Expected)</span>: <strong>PhD in Robot Learning and HRI</strong> at King's College London
-  <br><em>Research Focus: Robot Learning and Human-Robot Interaction</em>
-  <br>
-- <span class="edu-date">2021–2022</span>: <strong>MSc in Applied Machine Learning</strong> at Imperial College London
-  <br><em>Merit achieved (69.15%)</em>
-  <br>
-- <span class="edu-date">2018–2021</span>: <strong>BEng in Electrical and Electronic Engineering</strong> at Swansea University
-  <br><em>First Class Honours (82.25%)</em>
-</div>
+- **2023–2027 (Expected):** PhD in Robot Learning and HRI, King's College London  
+  *Research Focus: Robot Learning and Human-Robot Interaction*
+- **2021–2022:** MSc in Applied Machine Learning, Imperial College London  
+  *Merit achieved (69.15%)*
+- **2018–2021:** BEng in Electrical and Electronic Engineering, Swansea University  
+  *First Class Honours (82.25%)*
 
 <span class='anchor' id='experience'></span>
 
@@ -139,37 +131,4 @@ I believe that the future of robotics lies in creating systems that can learn, a
   - **Model Performance Improvement**: Improved company's model performance by 75.75% including a decrease of 38% in prediction error, an increase of 0.5% of R² and a narrower confident prediction band of 2.81%
   - **Combinatorial Optimization**: Solved combinatorial optimization to make control and variant groups as similar as possible using meta-heuristic algorithms (GA, PSO, etc.)
   - **Technical Skills**: Applied advanced machine learning techniques for real-world business problems
-</div>
-
-<span class='anchor' id='contact'></span>
-
-## 📧 Get In Touch
-
-I'm always interested in discussing research opportunities, collaborations, or simply connecting with fellow researchers and professionals in the AI and robotics community. Feel free to reach out!
-
-<div class="contact-info">
-  <div class="contact-item">
-    <i class="fas fa-map-marker-alt"></i>
-    <span>1116 – Wolfson House – SE1 3RB, London, UK</span>
-  </div>
-  <div class="contact-item">
-    <i class="fas fa-phone"></i>
-    <span>(44)-07719-191404</span>
-  </div>
-  <div class="contact-item">
-    <i class="fas fa-envelope"></i>
-    <span>sunendong2021@gmail.com</span>
-  </div>
-</div>
-
-<div class="contact-options">
-  <a href="mailto:sunendong2021@gmail.com" class="contact-btn">
-    <i class="fas fa-envelope"></i> Email Me
-  </a>
-  <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" class="contact-btn">
-    <i class="fab fa-linkedin"></i> LinkedIn
-  </a>
-  <a href="https://github.com/{{ site.author.github }}" class="contact-btn">
-    <i class="fab fa-github"></i> GitHub
-  </a>
 </div>

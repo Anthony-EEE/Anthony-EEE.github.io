@@ -219,50 +219,8 @@
   }
 }
 
-.awards-timeline,
-.education-timeline,
-.experience-timeline {
-  position: relative;
-  padding-left: 2rem;
-  
-  &:before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    background: #00369f;
-  }
-  
-  > * {
-    position: relative;
-    margin-bottom: 1.5rem;
-    padding: 1rem;
-    background: #f8f9fa;
-    border-radius: 8px;
-    border-left: 4px solid #00369f;
-    
-    &:before {
-      content: "";
-      position: absolute;
-      left: -2.5rem;
-      top: 1.5rem;
-      width: 12px;
-      height: 12px;
-      background: #00369f;
-      border-radius: 50%;
-      border: 3px solid white;
-      box-shadow: 0 0 0 2px #00369f;
-    }
-    
-    &:hover {
-      background: #e9ecef;
-      transform: translateX(4px);
-      transition: all 0.3s ease;
-    }
-  }
-}
+// Remove .awards-timeline, .education-timeline, .experience-timeline timeline visuals
+// Only keep simple spacing for lists
 
 .contact-options {
   display: flex;
@@ -475,7 +433,7 @@
 }
 
 // Update cards, timelines, and section headings to use #00369f for accents
-.paper-box, .projects-grid .project-card, .skills-grid .skill-category, .awards-timeline > *, .education-timeline > *, .experience-timeline > * {
+.paper-box, .projects-grid .project-card, .skills-grid .skill-category, .news-timeline > *, .contact-info .contact-item, .contact-options .contact-btn {
   border-left: 4px solid #00369f !important;
 }
 
@@ -485,7 +443,7 @@ h2, h3, h4 {
 }
 
 // Fix timeline dots
-.news-timeline > *, .awards-timeline > *, .education-timeline > *, .experience-timeline > * {
+.news-timeline > *, .contact-info .contact-item, .contact-options .contact-btn {
   &:before {
     background: #00369f !important;
     box-shadow: 0 0 0 2px #00369f !important;
