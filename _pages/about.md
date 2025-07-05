@@ -24,10 +24,6 @@ redirect_from:
     <p class="hero-description">
       King's College London PhD student majoring in Robot Learning and Human-Robot Interaction with a strong programming and mathematics background. Passionate about solving robot learning problems using ML/DL/RL. Proficiency in academic and industrial projects with Python and AI.
     </p>
-    <div class="hero-buttons">
-      <a href="#research-interests" class="btn btn--primary">Explore My Research</a>
-      <a href="mailto:{{ site.author.email }}" class="btn btn--outline">Get In Touch</a>
-    </div>
   </div>
 </div>
 
@@ -49,10 +45,10 @@ I believe that the future of robotics lies in creating systems that can learn, a
 ## 🔥 Latest News
 
 <ul class="news-timeline">
-  <li><span class="news-date">2025</span>: 🎉 Paper "Training People to Reward Robots" accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</li>
-  <li><span class="news-date">March 2024</span>: 🎉 Successfully passed the KCL 9-month review of my PhD project, marking a significant milestone in my research journey.</li>
-  <li><span class="news-date">June 2023</span>: 🎓 Started my PhD journey at King's College London, beginning an exciting new chapter in Robot Learning and HRI research.</li>
-  <li><span class="news-date">March 2023</span>: 💼 Completed my internship at SearchPilot, gaining valuable industry experience in London.</li>
+  <li>2025: 🎉 Paper "Training People to Reward Robots" accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</li>
+  <li>March 2024: 🎉 Successfully passed the KCL 9-month review of my PhD project, marking a significant milestone in my research journey.</li>
+  <li>June 2023: 🎓 Started my PhD journey at King's College London, beginning an exciting new chapter in Robot Learning and HRI research.</li>
+  <li>March 2023: 💼 Completed my internship at SearchPilot, gaining valuable industry experience in London.</li>
 </ul>
 
 <span class='anchor' id='publications'></span>
