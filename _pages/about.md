@@ -67,7 +67,7 @@ I believe that the future of robotics lies in creating systems that can learn, a
 
 **Abstract**: This paper presents novel approaches to training humans to provide effective rewards for robot learning systems, improving the human-robot interaction loop in reinforcement learning scenarios.
 
-**Links**: [📄 Paper](https://arxiv.org/abs/2505.10151) | [🎥 Video](https://arxiv.org/abs/2505.10151)
+**Links**: [📄 Paper](https://arxiv.org/abs/2505.10151) | [🎥 Video](https://www.youtube.com/watch?v=FHyRwdMq2m8&t=6s)
 
   </div>
 </div>
