@@ -63,6 +63,8 @@ I believe that the future of robotics lies in creating systems that can learn, a
 
 ### [Training People to Reward Robots](https://arxiv.org/abs/2505.10151)
 
+**Authors**: **Endong Sun***, Yuqing Zhu, Matthew Howard
+
 **Conference**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
 
 **Abstract**: This paper presents novel approaches to training humans to provide effective rewards for robot learning systems, improving the human-robot interaction loop in reinforcement learning scenarios.
