@@ -56,7 +56,7 @@ I believe that the future of robotics lies in creating systems that can learn, a
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='https://youtu.be/sPrt58o1qEI?t=19' alt="Training People to Reward Robots" width="100%">
+      <img src='https://github.com/Anthony-EEE/Anthony-EEE.github.io/blob/main/images/Paper_framework_old%20(2).png' alt="Training People to Reward Robots" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
