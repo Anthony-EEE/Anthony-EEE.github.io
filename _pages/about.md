@@ -108,6 +108,8 @@ I believe that the future of robotics lies in creating systems that can learn, a
 - 💰 2019: International Excellence Scholarship (£2,000 awarded)
 - 🌟 2020: Outstanding Academic Achievement Award
 
+<span class='anchor' id='education'></span>
+
 ## 📖 Education
 
 - **2023–2027 (Expected):** PhD in Robot Learning and HRI, King's College London  
